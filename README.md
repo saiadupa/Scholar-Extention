@@ -1,3 +1,6 @@
+<a href="https://www.buymeacoffee.com/nithinsaiadupa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 Google Scholar Search Extension for Visual Studio Code
 Overview
 The Google Scholar Search Extension for Visual Studio Code is a powerful tool that allows you to seamlessly integrate Google Scholar searches into your coding workflow. This extension makes it easier for researchers, students, and professionals to access scholarly articles, papers, and publications directly from within the Visual Studio Code (VS Code) environment.
